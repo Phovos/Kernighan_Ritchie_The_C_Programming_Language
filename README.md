@@ -15,4 +15,4 @@ gcc -ansi helloc_rev.c
 
 ![first_c_programs](https://user-images.githubusercontent.com/106051413/201453456-2da8d5ff-5b39-40fe-aade-f9ca74751005.png)  
 
-The rest of my stack is amdx64win11 hosting ubuntu20 using subsystem for linux. I'm using nano because i already learned dreamweaver 20 years ago and that IDE clearly didnt seem to help with actually learning to code. With the wisdom of time I now know that I actually just hate html and wish Python had already been decided as the new programmer's language when I came of age (gosh, I love python - another reason I'm learning C).
+The rest of my stack is amdx64win11 hosting ubuntu20 using subsystem for linux. I'm using nano because i already learned dreamweaver 20 years ago and that IDE clearly didnt seem to help with actually learning to code. With the wisdom of time I now know that I actually just hate java and html and wish Python had already been decided as the new programmer's language when I came of age (gosh, I love python - another reason I'm learning C).
