@@ -1,4 +1,4 @@
-/* gcc -ansi flag to compile - prints a table of f/c temprature conversions*/
+/* reversed output to terminal */
 #include<stdio.h>
 main()
 {
